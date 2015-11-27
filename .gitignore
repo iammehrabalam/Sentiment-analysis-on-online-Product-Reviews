@@ -1,0 +1,5 @@
+data/*
+datasheets/*
+db_data.*
+*.pyc
+*.ipynb
